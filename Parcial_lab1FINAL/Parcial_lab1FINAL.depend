@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1596566395 source:c:\users\santi\desktop\parcial_lab1final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menus.h"
+	"Choferes.h"
+	"Camiones.h"
+	"Nacionalidad.h"
+	"Marca.h"
+	"ChoferCamion.h"
+
+1596572146 source:c:\users\santi\desktop\parcial_lab1final\camiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camiones.h"
+
+1596572794 c:\users\santi\desktop\parcial_lab1final\camiones.h
+	"Marca.h"
+	"Choferes.h"
+	"Validaciones_.h"
+	"Menus.h"
+
+1596568465 source:c:\users\santi\desktop\parcial_lab1final\choferes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Choferes.h"
+
+1596568149 c:\users\santi\desktop\parcial_lab1final\choferes.h
+	"Nacionalidad.h"
+	"Validaciones_.h"
+	"Menus.h"
+
+1596212860 source:c:\users\santi\desktop\parcial_lab1final\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Marca.h"
+
+1596574647 c:\users\santi\desktop\parcial_lab1final\marca.h
+
+1596566395 source:c:\users\santi\desktop\parcial_lab1final\nacionalidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nacionalidad.h"
+
+1596574907 c:\users\santi\desktop\parcial_lab1final\nacionalidad.h
+
+1596177244 source:c:\users\santi\desktop\parcial_lab1final\validaciones_.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+	"validaciones_.h"
+
+1596177244 c:\users\santi\desktop\parcial_lab1final\validaciones_.h
+
+1596339079 c:\users\santi\desktop\parcial_lab1final\menus.h
+
+1596558301 source:c:\users\santi\desktop\parcial_lab1final\menus.c
+	"Menus.h"
+	"Validaciones_.h"
+
+1596564050 source:c:\users\santi\desktop\parcial_lab1final\chofercamion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ChoferCamion.h"
+
+1596574233 c:\users\santi\desktop\parcial_lab1final\chofercamion.h
+	"Choferes.h"
+	"Camiones.h"
+

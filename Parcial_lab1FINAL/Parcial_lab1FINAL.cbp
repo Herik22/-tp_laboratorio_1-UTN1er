@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Parcial_lab1FINAL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Parcial_lab1FINAL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Parcial_lab1FINAL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Camiones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Camiones.h" />
+		<Unit filename="ChoferCamion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ChoferCamion.h" />
+		<Unit filename="Choferes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Choferes.h" />
+		<Unit filename="Marca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Marca.h" />
+		<Unit filename="Menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menus.h" />
+		<Unit filename="Nacionalidad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Nacionalidad.h" />
+		<Unit filename="Validaciones_.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Validaciones_.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

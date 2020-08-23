@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Nacionalidad.h" open="1" top="1" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="312" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="22" />
+			<Collapse line="35" />
+			<Collapse line="44" />
+		</Folding>
+	</File>
+	<File name="Camiones.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5979" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="26" />
+			<Collapse line="47" />
+			<Collapse line="76" />
+			<Collapse line="93" />
+			<Collapse line="116" />
+			<Collapse line="132" />
+			<Collapse line="154" />
+			<Collapse line="185" />
+			<Collapse line="203" />
+			<Collapse line="225" />
+		</Folding>
+	</File>
+	<File name="Camiones.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1124" topLine="21" />
+		</Cursor>
+		<Folding>
+			<Collapse line="23" />
+			<Collapse line="32" />
+			<Collapse line="41" />
+			<Collapse line="50" />
+			<Collapse line="59" />
+			<Collapse line="68" />
+			<Collapse line="79" />
+			<Collapse line="90" />
+			<Collapse line="99" />
+			<Collapse line="108" />
+			<Collapse line="117" />
+		</Folding>
+	</File>
+	<File name="Validaciones_.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1286" topLine="122" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4213" topLine="94" />
+		</Cursor>
+		<Folding>
+			<Collapse line="46" />
+			<Collapse line="52" />
+			<Collapse line="58" />
+			<Collapse line="64" />
+			<Collapse line="70" />
+			<Collapse line="76" />
+			<Collapse line="82" />
+			<Collapse line="88" />
+			<Collapse line="94" />
+			<Collapse line="100" />
+			<Collapse line="106" />
+			<Collapse line="112" />
+			<Collapse line="118" />
+			<Collapse line="124" />
+			<Collapse line="130" />
+			<Collapse line="135" />
+			<Collapse line="141" />
+			<Collapse line="147" />
+			<Collapse line="153" />
+			<Collapse line="159" />
+			<Collapse line="165" />
+			<Collapse line="174" />
+		</Folding>
+	</File>
+	<File name="Marca.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1427" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="20" />
+			<Collapse line="37" />
+			<Collapse line="51" />
+		</Folding>
+	</File>
+	<File name="ChoferCamion.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12012" topLine="147" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="46" />
+			<Collapse line="63" />
+			<Collapse line="184" />
+			<Collapse line="321" />
+			<Collapse line="352" />
+			<Collapse line="387" />
+			<Collapse line="433" />
+			<Collapse line="488" />
+		</Folding>
+	</File>
+	<File name="Menus.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="848" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="16" />
+		</Folding>
+	</File>
+	<File name="Marca.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="357" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="20" />
+			<Collapse line="31" />
+			<Collapse line="40" />
+		</Folding>
+	</File>
+	<File name="Menus.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="123" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Nacionalidad.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1971" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="23" />
+			<Collapse line="40" />
+			<Collapse line="52" />
+		</Folding>
+	</File>
+	<File name="Choferes.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20043" topLine="59" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="28" />
+			<Collapse line="49" />
+			<Collapse line="85" />
+			<Collapse line="103" />
+			<Collapse line="123" />
+			<Collapse line="144" />
+			<Collapse line="162" />
+			<Collapse line="183" />
+			<Collapse line="202" />
+			<Collapse line="224" />
+			<Collapse line="301" />
+			<Collapse line="469" />
+			<Collapse line="493" />
+			<Collapse line="519" />
+		</Folding>
+	</File>
+	<File name="ChoferCamion.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3295" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="22" />
+			<Collapse line="34" />
+			<Collapse line="46" />
+			<Collapse line="58" />
+			<Collapse line="69" />
+			<Collapse line="82" />
+			<Collapse line="93" />
+			<Collapse line="106" />
+			<Collapse line="119" />
+			<Collapse line="132" />
+		</Folding>
+	</File>
+	<File name="Choferes.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="368" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+			<Collapse line="35" />
+			<Collapse line="44" />
+			<Collapse line="53" />
+			<Collapse line="74" />
+			<Collapse line="85" />
+			<Collapse line="97" />
+			<Collapse line="108" />
+			<Collapse line="119" />
+			<Collapse line="130" />
+			<Collapse line="142" />
+			<Collapse line="154" />
+			<Collapse line="164" />
+			<Collapse line="174" />
+			<Collapse line="185" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
