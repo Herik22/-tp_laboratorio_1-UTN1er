@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1596028283 source:c:\users\santi\desktop\proyecto_vuelosutn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	"LinkedList.h"
+	"Vuelos.h"
+	"Pilotos.h"
+	"Menu.h"
+	"Parser.h"
+	"Controller.h"
+
+1595981847 source:c:\users\santi\desktop\proyecto_vuelosutn\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+	"validaciones.h"
+
+1595981762 c:\users\santi\desktop\proyecto_vuelosutn\validaciones.h
+
+1596007534 source:c:\users\santi\desktop\proyecto_vuelosutn\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596007534 c:\users\santi\desktop\proyecto_vuelosutn\linkedlist.h
+
+1595994472 source:c:\users\santi\desktop\proyecto_vuelosutn\pilotos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilotos.h"
+	"Validaciones.h"
+	"Vuelos.h"
+
+1595988236 c:\users\santi\desktop\proyecto_vuelosutn\pilotos.h
+	"LinkedList.h"
+
+1596028552 c:\users\santi\desktop\proyecto_vuelosutn\vuelos.h
+	"LinkedList.h"
+
+1596030160 source:c:\users\santi\desktop\proyecto_vuelosutn\vuelos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Vuelos.h"
+	"Validaciones.h"
+	"LinkedList.h"
+	"Pilotos.h"
+
+1595738900 c:\users\santi\desktop\proyecto_vuelosutn\menu.h
+
+1596028315 source:c:\users\santi\desktop\proyecto_vuelosutn\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Validaciones.h"
+
+1595486359 c:\users\santi\desktop\proyecto_vuelosutn\parser.h
+
+1595993967 source:c:\users\santi\desktop\proyecto_vuelosutn\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilotos.h"
+	"Vuelos.h"
+	"LinkedList.h"
+	"Validaciones.h"
+
+1596029778 source:c:\users\santi\desktop\proyecto_vuelosutn\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Pilotos.h"
+	"Vuelos.h"
+	"Parser.h"
+	"Menu.h"
+	"Validaciones.h"
+
+1596029113 c:\users\santi\desktop\proyecto_vuelosutn\controller.h
+	"LinkedList.h"
+
+1596029778 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Pilotos.h"
+	"Vuelos.h"
+	"Parser.h"
+	"Menu.h"
+	"Validaciones.h"
+
+1596029113 c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\controller.h
+	"LinkedList.h"
+
+1596007534 c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\linkedlist.h
+
+1595988236 c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\pilotos.h
+	"LinkedList.h"
+
+1596028552 c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\vuelos.h
+	"LinkedList.h"
+
+1595486359 c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\parser.h
+
+1595738900 c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\menu.h
+
+1595981762 c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\validaciones.h
+
+1596007534 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596028283 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	"LinkedList.h"
+	"Vuelos.h"
+	"Pilotos.h"
+	"Menu.h"
+	"Parser.h"
+	"Controller.h"
+
+1596028315 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Validaciones.h"
+
+1596515257 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilotos.h"
+	"Vuelos.h"
+	"LinkedList.h"
+	"Validaciones.h"
+
+1595994472 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\pilotos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilotos.h"
+	"Validaciones.h"
+	"Vuelos.h"
+
+1595981847 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+	"validaciones.h"
+
+1596057476 source:c:\users\santi\desktop\utn 1er cuatri\proyecto_vuelosutn\vuelos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Vuelos.h"
+	"Validaciones.h"
+	"LinkedList.h"
+	"Pilotos.h"
+
